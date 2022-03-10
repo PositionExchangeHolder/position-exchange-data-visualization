@@ -1,6 +1,6 @@
-# position-exchange-data-visualization
+# Position Exchange Data Visualization
 
-## Tokenmonic
+## Tokenomics
 
 Max Supply: 100.000.000 [POSI](https://bscscan.com/token/0x5ca42204cdaa70d5c773946e69de942b85ca6706)
 - Community: 80.000.000 (Via Farming & Pools)
